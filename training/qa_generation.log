@@ -1,0 +1,955 @@
+2025-04-22 10:43:55,157 - INFO - Starting QA generation process
+2025-04-22 10:43:55,159 - INFO - Loaded 238 rules to process
+2025-04-22 10:43:55,159 - INFO - Processing rule 1.1: Base on Balls
+2025-04-22 10:43:55,159 - INFO - Processing rule 1.2: Base Runner
+2025-04-22 10:43:55,160 - INFO - Processing rule 1.3: Batted Ball
+2025-04-22 10:43:55,161 - INFO - Processing rule 1.4: Batter
+2025-04-22 10:43:55,163 - INFO - Processing rule 1.5: Batter-Runner
+2025-04-22 10:43:56,377 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:43:56,387 - INFO - Successfully generated QA for rule 1.1
+2025-04-22 10:43:56,387 - INFO - Processing rule 1.6: Blocked Ball
+2025-04-22 10:43:56,387 - INFO - Progress: 1/238 rules processed
+2025-04-22 10:43:56,611 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:43:56,613 - INFO - Successfully generated QA for rule 1.4
+2025-04-22 10:43:56,613 - INFO - Processing rule 1.7: Flagrant
+2025-04-22 10:43:56,614 - INFO - Progress: 2/238 rules processed
+2025-04-22 10:43:56,989 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:43:56,989 - INFO - Successfully generated QA for rule 1.3
+2025-04-22 10:43:56,990 - INFO - Processing rule 1.8: Fly Ball
+2025-04-22 10:43:56,990 - INFO - Progress: 3/238 rules processed
+2025-04-22 10:43:57,062 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:43:57,149 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:43:57,160 - INFO - Successfully generated QA for rule 1.2
+2025-04-22 10:43:57,161 - INFO - Processing rule 1.9: Ground Ball
+2025-04-22 10:43:57,162 - INFO - Progress: 4/238 rules processed
+2025-04-22 10:43:57,254 - INFO - Successfully generated QA for rule 1.5
+2025-04-22 10:43:57,255 - INFO - Processing rule 1.10: Ground Rule
+2025-04-22 10:43:57,255 - INFO - Progress: 5/238 rules processed
+2025-04-22 10:43:58,013 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:43:58,014 - INFO - Successfully generated QA for rule 1.7
+2025-04-22 10:43:58,014 - INFO - Processing rule 1.11: In Flight
+2025-04-22 10:43:58,015 - INFO - Progress: 6/238 rules processed
+2025-04-22 10:43:58,102 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:43:58,115 - INFO - Successfully generated QA for rule 1.6
+2025-04-22 10:43:58,116 - INFO - Processing rule 1.12: Inning
+2025-04-22 10:43:58,116 - INFO - Progress: 7/238 rules processed
+2025-04-22 10:43:59,241 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:43:59,243 - INFO - Successfully generated QA for rule 1.8
+2025-04-22 10:43:59,243 - INFO - Processing rule 1.13: Interference
+2025-04-22 10:43:59,244 - INFO - Progress: 8/238 rules processed
+2025-04-22 10:43:59,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:43:59,288 - INFO - Successfully generated QA for rule 1.10
+2025-04-22 10:43:59,288 - INFO - Processing rule 1.14: Line Drive
+2025-04-22 10:43:59,289 - INFO - Progress: 9/238 rules processed
+2025-04-22 10:43:59,961 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:43:59,962 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:43:59,965 - INFO - Successfully generated QA for rule 1.9
+2025-04-22 10:43:59,965 - INFO - Processing rule 1.15: No Pitch
+2025-04-22 10:43:59,966 - INFO - Successfully generated QA for rule 1.12
+2025-04-22 10:43:59,966 - INFO - Progress: 10/238 rules processed
+2025-04-22 10:43:59,972 - INFO - Processing rule 1.16: Out
+2025-04-22 10:43:59,973 - INFO - Progress: 11/238 rules processed
+2025-04-22 10:44:00,045 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:00,052 - INFO - Successfully generated QA for rule 1.11
+2025-04-22 10:44:00,052 - INFO - Processing rule 1.17: Overthrow
+2025-04-22 10:44:00,052 - INFO - Progress: 12/238 rules processed
+2025-04-22 10:44:00,368 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:00,371 - INFO - Successfully generated QA for rule 1.14
+2025-04-22 10:44:00,371 - INFO - Processing rule 1.18: Play
+2025-04-22 10:44:00,371 - INFO - Progress: 13/238 rules processed
+2025-04-22 10:44:00,982 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:00,994 - INFO - Successfully generated QA for rule 1.13
+2025-04-22 10:44:00,994 - INFO - Processing rule 1.19: Runner
+2025-04-22 10:44:00,994 - INFO - Progress: 14/238 rules processed
+2025-04-22 10:44:01,391 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:01,393 - INFO - Successfully generated QA for rule 1.17
+2025-04-22 10:44:01,394 - INFO - Processing rule 1.20: Rundown
+2025-04-22 10:44:01,394 - INFO - Progress: 15/238 rules processed
+2025-04-22 10:44:01,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:01,589 - INFO - Successfully generated QA for rule 1.16
+2025-04-22 10:44:01,590 - INFO - Processing rule 1.21: Safe
+2025-04-22 10:44:01,590 - INFO - Progress: 16/238 rules processed
+2025-04-22 10:44:02,417 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:02,420 - INFO - Successfully generated QA for rule 1.15
+2025-04-22 10:44:02,420 - INFO - Processing rule 1.22: Strikeout
+2025-04-22 10:44:02,420 - INFO - Progress: 17/238 rules processed
+2025-04-22 10:44:02,886 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:02,898 - INFO - Successfully generated QA for rule 1.20
+2025-04-22 10:44:02,898 - INFO - Processing rule 1.23: “Time”
+2025-04-22 10:44:02,904 - INFO - Progress: 18/238 rules processed
+2025-04-22 10:44:02,925 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:02,928 - INFO - Successfully generated QA for rule 1.21
+2025-04-22 10:44:02,928 - INFO - Processing rule 1.24: Timing Play
+2025-04-22 10:44:02,928 - INFO - Progress: 19/238 rules processed
+2025-04-22 10:44:03,337 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:03,339 - INFO - Successfully generated QA for rule 1.19
+2025-04-22 10:44:03,340 - INFO - Processing rule 1.25: Turn at Bat
+2025-04-22 10:44:03,340 - INFO - Progress: 20/238 rules processed
+2025-04-22 10:44:03,423 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:03,429 - INFO - Successfully generated QA for rule 1.22
+2025-04-22 10:44:03,430 - INFO - Processing rule 1.26: Without Liability to be Put Out
+2025-04-22 10:44:03,430 - INFO - Progress: 21/238 rules processed
+2025-04-22 10:44:03,443 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:03,457 - INFO - Successfully generated QA for rule 1.18
+2025-04-22 10:44:03,457 - INFO - Processing rule 2.1: Layout
+2025-04-22 10:44:03,457 - INFO - Progress: 22/238 rules processed
+2025-04-22 10:44:04,938 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:04,950 - INFO - Successfully generated QA for rule 1.24
+2025-04-22 10:44:04,950 - INFO - Processing rule 2.2: Artificial Turf
+2025-04-22 10:44:04,950 - INFO - Progress: 23/238 rules processed
+2025-04-22 10:44:04,979 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:04,993 - INFO - Successfully generated QA for rule 1.26
+2025-04-22 10:44:04,993 - INFO - Processing rule 2.3: Backstop
+2025-04-22 10:44:04,993 - INFO - Progress: 24/238 rules processed
+2025-04-22 10:44:05,385 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:05,388 - INFO - Successfully generated QA for rule 2.1
+2025-04-22 10:44:05,388 - INFO - Processing rule 2.4: Base Distance
+2025-04-22 10:44:05,395 - INFO - Progress: 25/238 rules processed
+2025-04-22 10:44:05,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:05,897 - INFO - Successfully generated QA for rule 1.25
+2025-04-22 10:44:05,897 - INFO - Processing rule 2.5: Baseline
+2025-04-22 10:44:05,897 - INFO - Progress: 26/238 rules processed
+2025-04-22 10:44:06,307 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:06,309 - INFO - Successfully generated QA for rule 2.3
+2025-04-22 10:44:06,309 - INFO - Processing rule 2.6: Base Path
+2025-04-22 10:44:06,309 - INFO - Progress: 27/238 rules processed
+2025-04-22 10:44:06,350 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:06,353 - INFO - Successfully generated QA for rule 2.4
+2025-04-22 10:44:06,353 - INFO - Processing rule 2.7: Bases—First, Second and Third
+2025-04-22 10:44:06,353 - INFO - Progress: 28/238 rules processed
+2025-04-22 10:44:06,646 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:06,647 - INFO - Successfully generated QA for rule 2.2
+2025-04-22 10:44:06,647 - INFO - Processing rule 2.8: Batter’s Boxes
+2025-04-22 10:44:06,647 - INFO - Progress: 29/238 rules processed
+2025-04-22 10:44:07,553 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:07,613 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:07,659 - INFO - Successfully generated QA for rule 2.5
+2025-04-22 10:44:07,659 - INFO - Processing rule 2.9: Bullpen
+2025-04-22 10:44:07,660 - INFO - Progress: 30/238 rules processed
+2025-04-22 10:44:07,715 - INFO - Successfully generated QA for rule 2.7
+2025-04-22 10:44:07,716 - INFO - Processing rule 2.10: Catcher’s Box
+2025-04-22 10:44:07,716 - INFO - Progress: 31/238 rules processed
+2025-04-22 10:44:08,887 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:08,895 - INFO - Successfully generated QA for rule 2.8
+2025-04-22 10:44:08,895 - INFO - Processing rule 2.11: Coaches’ Boxes
+2025-04-22 10:44:08,895 - INFO - Progress: 32/238 rules processed
+2025-04-22 10:44:09,089 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:09,095 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:09,107 - INFO - Successfully generated QA for rule 2.10
+2025-04-22 10:44:09,107 - INFO - Processing rule 2.12: Dead-Ball Territory
+2025-04-22 10:44:09,108 - INFO - Progress: 33/238 rules processed
+2025-04-22 10:44:09,119 - INFO - Successfully generated QA for rule 1.23
+2025-04-22 10:44:09,119 - INFO - Processing rule 2.13: Dugout (Bench)
+2025-04-22 10:44:09,119 - INFO - Progress: 34/238 rules processed
+2025-04-22 10:44:09,345 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:09,409 - INFO - Successfully generated QA for rule 2.9
+2025-04-22 10:44:09,409 - INFO - Processing rule 2.14: Fair Territory
+2025-04-22 10:44:09,409 - INFO - Progress: 35/238 rules processed
+2025-04-22 10:44:10,404 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:10,421 - INFO - Successfully generated QA for rule 2.12
+2025-04-22 10:44:10,422 - INFO - Processing rule 2.15: Fences
+2025-04-22 10:44:10,422 - INFO - Progress: 36/238 rules processed
+2025-04-22 10:44:11,068 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:11,179 - INFO - Successfully generated QA for rule 2.11
+2025-04-22 10:44:11,179 - INFO - Processing rule 2.16: Foul Pole
+2025-04-22 10:44:11,179 - INFO - Progress: 37/238 rules processed
+2025-04-22 10:44:11,441 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:11,444 - INFO - Successfully generated QA for rule 2.13
+2025-04-22 10:44:11,444 - INFO - Processing rule 2.17: Foul Territory
+2025-04-22 10:44:11,445 - INFO - Progress: 38/238 rules processed
+2025-04-22 10:44:11,507 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:11,509 - INFO - Successfully generated QA for rule 2.14
+2025-04-22 10:44:11,509 - INFO - Processing rule 2.18: Home Plate
+2025-04-22 10:44:11,509 - INFO - Progress: 39/238 rules processed
+2025-04-22 10:44:11,786 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:11,799 - INFO - Successfully generated QA for rule 2.6
+2025-04-22 10:44:11,799 - INFO - Processing rule 2.19: Infield
+2025-04-22 10:44:11,800 - INFO - Progress: 40/238 rules processed
+2025-04-22 10:44:12,349 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:12,351 - INFO - Successfully generated QA for rule 2.15
+2025-04-22 10:44:12,352 - INFO - Processing rule 2.20: Lines (Markings)
+2025-04-22 10:44:12,352 - INFO - Progress: 41/238 rules processed
+2025-04-22 10:44:12,784 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:12,787 - INFO - Successfully generated QA for rule 2.17
+2025-04-22 10:44:12,787 - INFO - Processing rule 2.21: Live-Ball Territory
+2025-04-22 10:44:12,787 - INFO - Progress: 42/238 rules processed
+2025-04-22 10:44:13,783 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:13,784 - INFO - Successfully generated QA for rule 2.16
+2025-04-22 10:44:13,784 - INFO - Processing rule 2.22: Nonregulation Field
+2025-04-22 10:44:13,784 - INFO - Progress: 43/238 rules processed
+2025-04-22 10:44:14,089 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:14,090 - INFO - Successfully generated QA for rule 2.19
+2025-04-22 10:44:14,090 - INFO - Processing rule 2.23: On-Deck Circle
+2025-04-22 10:44:14,092 - INFO - Progress: 44/238 rules processed
+2025-04-22 10:44:14,149 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:14,230 - INFO - Successfully generated QA for rule 2.21
+2025-04-22 10:44:14,230 - INFO - Processing rule 2.24: Outfield
+2025-04-22 10:44:14,230 - INFO - Progress: 45/238 rules processed
+2025-04-22 10:44:14,518 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:14,623 - INFO - Successfully generated QA for rule 2.18
+2025-04-22 10:44:14,624 - INFO - Processing rule 2.25: Pitcher’s Circle
+2025-04-22 10:44:14,624 - INFO - Progress: 46/238 rules processed
+2025-04-22 10:44:14,989 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:14,990 - INFO - Successfully generated QA for rule 2.20
+2025-04-22 10:44:14,990 - INFO - Processing rule 2.26: Pitcher’s Lane
+2025-04-22 10:44:14,991 - INFO - Progress: 47/238 rules processed
+2025-04-22 10:44:15,727 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:15,819 - INFO - Successfully generated QA for rule 2.22
+2025-04-22 10:44:15,819 - INFO - Processing rule 2.27: Pitcher’s Plate
+2025-04-22 10:44:15,819 - INFO - Progress: 48/238 rules processed
+2025-04-22 10:44:16,243 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:16,245 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:16,247 - INFO - Successfully generated QA for rule 2.24
+2025-04-22 10:44:16,247 - INFO - Processing rule 2.28: Runner’s Lane
+2025-04-22 10:44:16,247 - INFO - Progress: 49/238 rules processed
+2025-04-22 10:44:16,298 - INFO - Successfully generated QA for rule 2.25
+2025-04-22 10:44:16,298 - INFO - Processing rule 2.29: Scoreboard
+2025-04-22 10:44:16,298 - INFO - Progress: 50/238 rules processed
+2025-04-22 10:44:16,820 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:16,833 - INFO - Successfully generated QA for rule 2.23
+2025-04-22 10:44:16,833 - INFO - Processing rule 2.30: Sideline Territory
+2025-04-22 10:44:16,833 - INFO - Progress: 51/238 rules processed
+2025-04-22 10:44:17,366 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:17,369 - INFO - Successfully generated QA for rule 2.26
+2025-04-22 10:44:17,370 - INFO - Processing rule 2.31: Tarp
+2025-04-22 10:44:17,370 - INFO - Progress: 52/238 rules processed
+2025-04-22 10:44:18,119 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:18,168 - INFO - Successfully generated QA for rule 2.30
+2025-04-22 10:44:18,168 - INFO - Processing rule 2.32: Team Area
+2025-04-22 10:44:18,168 - INFO - Progress: 53/238 rules processed
+2025-04-22 10:44:18,307 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:18,332 - INFO - Successfully generated QA for rule 2.29
+2025-04-22 10:44:18,332 - INFO - Processing rule 2.33: Video, Audio, Matrix Boards
+2025-04-22 10:44:18,332 - INFO - Progress: 54/238 rules processed
+2025-04-22 10:44:18,493 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:18,496 - INFO - Successfully generated QA for rule 2.28
+2025-04-22 10:44:18,496 - INFO - Processing rule 2.34: Warning Track
+2025-04-22 10:44:18,496 - INFO - Progress: 55/238 rules processed
+2025-04-22 10:44:18,551 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:18,552 - INFO - Successfully generated QA for rule 2.27
+2025-04-22 10:44:18,553 - INFO - Processing rule 3.1: All Equipment
+2025-04-22 10:44:18,553 - INFO - Progress: 56/238 rules processed
+2025-04-22 10:44:19,518 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:19,521 - INFO - Successfully generated QA for rule 2.31
+2025-04-22 10:44:19,521 - INFO - Processing rule 3.2: Ball
+2025-04-22 10:44:19,521 - INFO - Progress: 57/238 rules processed
+2025-04-22 10:44:19,955 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:19,980 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:20,059 - INFO - Successfully generated QA for rule 2.34
+2025-04-22 10:44:20,059 - INFO - Processing rule 3.3: Bats—Game
+2025-04-22 10:44:20,059 - INFO - Progress: 58/238 rules processed
+2025-04-22 10:44:20,087 - INFO - Successfully generated QA for rule 2.32
+2025-04-22 10:44:20,087 - INFO - Processing rule 3.4: Inappropriate/Damaged Bats
+2025-04-22 10:44:20,087 - INFO - Progress: 59/238 rules processed
+2025-04-22 10:44:20,459 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:20,479 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:20,523 - INFO - Successfully generated QA for rule 2.33
+2025-04-22 10:44:20,524 - INFO - Processing rule 3.5: Bats—Warmup
+2025-04-22 10:44:20,524 - INFO - Progress: 60/238 rules processed
+2025-04-22 10:44:20,553 - INFO - Successfully generated QA for rule 3.1
+2025-04-22 10:44:20,554 - INFO - Processing rule 3.6: Gloves/Mitts
+2025-04-22 10:44:20,554 - INFO - Progress: 61/238 rules processed
+2025-04-22 10:44:22,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:22,283 - INFO - Successfully generated QA for rule 3.5
+2025-04-22 10:44:22,283 - INFO - Processing rule 3.7: Required Protective Equipment
+2025-04-22 10:44:22,283 - INFO - Progress: 62/238 rules processed
+2025-04-22 10:44:23,757 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:23,759 - INFO - Successfully generated QA for rule 3.2
+2025-04-22 10:44:23,759 - INFO - Processing rule 3.8: Optional Protective Equipment
+2025-04-22 10:44:23,760 - INFO - Progress: 63/238 rules processed
+2025-04-22 10:44:24,155 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:24,266 - INFO - Successfully generated QA for rule 3.7
+2025-04-22 10:44:24,266 - INFO - Processing rule 3.9: Shoes
+2025-04-22 10:44:24,267 - INFO - Progress: 64/238 rules processed
+2025-04-22 10:44:24,663 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:24,681 - INFO - Successfully generated QA for rule 3.3
+2025-04-22 10:44:24,682 - INFO - Processing rule 3.10: Uniforms
+2025-04-22 10:44:24,682 - INFO - Progress: 65/238 rules processed
+2025-04-22 10:44:24,695 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:24,795 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:24,796 - INFO - Successfully generated QA for rule 3.4
+2025-04-22 10:44:24,796 - INFO - Processing rule 4.1: Assistant Coach
+2025-04-22 10:44:24,799 - INFO - Progress: 66/238 rules processed
+2025-04-22 10:44:24,800 - INFO - Successfully generated QA for rule 3.6
+2025-04-22 10:44:24,801 - INFO - Processing rule 4.2: Authorized Personnel
+2025-04-22 10:44:24,805 - INFO - Progress: 67/238 rules processed
+2025-04-22 10:44:26,274 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:26,275 - INFO - Successfully generated QA for rule 4.1
+2025-04-22 10:44:26,275 - INFO - Processing rule 4.3: Base Coach
+2025-04-22 10:44:26,275 - INFO - Progress: 68/238 rules processed
+2025-04-22 10:44:26,335 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:26,338 - INFO - Successfully generated QA for rule 3.10
+2025-04-22 10:44:26,338 - INFO - Processing rule 4.4: Head Coach
+2025-04-22 10:44:26,338 - INFO - Progress: 69/238 rules processed
+2025-04-22 10:44:26,514 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:26,541 - INFO - Successfully generated QA for rule 3.9
+2025-04-22 10:44:26,542 - INFO - Processing rule 4.5: Medical Personnel
+2025-04-22 10:44:26,542 - INFO - Progress: 70/238 rules processed
+2025-04-22 10:44:27,505 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:27,507 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:27,508 - INFO - Successfully generated QA for rule 4.2
+2025-04-22 10:44:27,509 - INFO - Processing rule 4.6: Official Scorer
+2025-04-22 10:44:27,509 - INFO - Progress: 71/238 rules processed
+2025-04-22 10:44:27,516 - INFO - Successfully generated QA for rule 4.3
+2025-04-22 10:44:27,516 - INFO - Processing rule 4.7: On-Site Administrator
+2025-04-22 10:44:27,516 - INFO - Progress: 72/238 rules processed
+2025-04-22 10:44:27,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:27,915 - INFO - Successfully generated QA for rule 3.8
+2025-04-22 10:44:27,915 - INFO - Processing rule 4.8: Public-Address Announcer
+2025-04-22 10:44:27,916 - INFO - Progress: 73/238 rules processed
+2025-04-22 10:44:28,733 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:28,804 - INFO - Successfully generated QA for rule 4.4
+2025-04-22 10:44:28,805 - INFO - Processing rule 4.9: Team Representative
+2025-04-22 10:44:28,805 - INFO - Progress: 74/238 rules processed
+2025-04-22 10:44:29,142 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:29,161 - INFO - Successfully generated QA for rule 4.5
+2025-04-22 10:44:29,162 - INFO - Processing rule 4.10: Umpires
+2025-04-22 10:44:29,162 - INFO - Progress: 75/238 rules processed
+2025-04-22 10:44:30,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:30,168 - INFO - Successfully generated QA for rule 4.9
+2025-04-22 10:44:30,169 - INFO - Processing rule 5.1: Pregame Practice
+2025-04-22 10:44:30,169 - INFO - Progress: 76/238 rules processed
+2025-04-22 10:44:30,302 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:30,304 - INFO - Successfully generated QA for rule 4.8
+2025-04-22 10:44:30,304 - INFO - Processing rule 5.2: Pre-Competition Barrel Compression
+2025-04-22 10:44:30,305 - INFO - Progress: 77/238 rules processed
+2025-04-22 10:44:30,575 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:30,677 - INFO - Successfully generated QA for rule 4.7
+2025-04-22 10:44:30,678 - INFO - Processing rule 5.3: Fitness of the Field
+2025-04-22 10:44:30,678 - INFO - Progress: 78/238 rules processed
+2025-04-22 10:44:30,701 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:30,775 - INFO - Successfully generated QA for rule 4.10
+2025-04-22 10:44:30,775 - INFO - Processing rule 5.4: Game Balls
+2025-04-22 10:44:30,775 - INFO - Progress: 79/238 rules processed
+2025-04-22 10:44:32,148 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:32,156 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:32,159 - INFO - Successfully generated QA for rule 5.4
+2025-04-22 10:44:32,160 - INFO - Processing rule 5.5: Umpires’ Pregame Duties
+2025-04-22 10:44:32,160 - INFO - Progress: 80/238 rules processed
+2025-04-22 10:44:32,167 - INFO - Successfully generated QA for rule 4.6
+2025-04-22 10:44:32,168 - INFO - Processing rule 5.6: Pregame Suggested Protocol
+2025-04-22 10:44:32,169 - INFO - Progress: 81/238 rules processed
+2025-04-22 10:44:32,357 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:32,398 - INFO - Successfully generated QA for rule 5.1
+2025-04-22 10:44:32,398 - INFO - Processing rule 5.7: Lineup Card
+2025-04-22 10:44:32,398 - INFO - Progress: 82/238 rules processed
+2025-04-22 10:44:32,915 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:32,933 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:32,935 - INFO - Successfully generated QA for rule 5.2
+2025-04-22 10:44:32,935 - INFO - Processing rule 5.8: Pregame Meeting
+2025-04-22 10:44:32,935 - INFO - Progress: 83/238 rules processed
+2025-04-22 10:44:33,020 - INFO - Successfully generated QA for rule 5.3
+2025-04-22 10:44:33,021 - INFO - Processing rule 5.9: Scouting, Electronic Equipment and Video Review
+2025-04-22 10:44:33,021 - INFO - Progress: 84/238 rules processed
+2025-04-22 10:44:34,073 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:34,142 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:34,153 - INFO - Successfully generated QA for rule 5.5
+2025-04-22 10:44:34,153 - INFO - Processing rule 5.10: Crowd Control
+2025-04-22 10:44:34,154 - INFO - Progress: 85/238 rules processed
+2025-04-22 10:44:34,253 - INFO - Successfully generated QA for rule 5.7
+2025-04-22 10:44:34,253 - INFO - Processing rule 5.11: Artificial Noisemakers Use
+2025-04-22 10:44:34,259 - INFO - Progress: 86/238 rules processed
+2025-04-22 10:44:34,775 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:34,788 - INFO - Successfully generated QA for rule 5.6
+2025-04-22 10:44:34,788 - INFO - Processing rule 5.12: Media/Photographers
+2025-04-22 10:44:34,788 - INFO - Progress: 87/238 rules processed
+2025-04-22 10:44:35,288 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:35,291 - INFO - Successfully generated QA for rule 5.8
+2025-04-22 10:44:35,291 - INFO - Processing rule 5.13: Bands
+2025-04-22 10:44:35,291 - INFO - Progress: 88/238 rules processed
+2025-04-22 10:44:35,697 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:35,700 - INFO - Successfully generated QA for rule 5.9
+2025-04-22 10:44:35,701 - INFO - Processing rule 6.1: Regulation Game
+2025-04-22 10:44:35,701 - INFO - Progress: 89/238 rules processed
+2025-04-22 10:44:36,055 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:36,063 - INFO - Successfully generated QA for rule 5.11
+2025-04-22 10:44:36,063 - INFO - Processing rule 6.2: Scoring of Runs
+2025-04-22 10:44:36,064 - INFO - Progress: 90/238 rules processed
+2025-04-22 10:44:36,285 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:36,287 - INFO - Successfully generated QA for rule 5.12
+2025-04-22 10:44:36,288 - INFO - Processing rule 6.3: Winning the Game
+2025-04-22 10:44:36,288 - INFO - Progress: 91/238 rules processed
+2025-04-22 10:44:37,628 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:37,635 - INFO - Successfully generated QA for rule 6.1
+2025-04-22 10:44:37,636 - INFO - Processing rule 6.4: Starting the Game
+2025-04-22 10:44:37,636 - INFO - Progress: 92/238 rules processed
+2025-04-22 10:44:37,848 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:37,850 - INFO - Successfully generated QA for rule 5.10
+2025-04-22 10:44:37,851 - INFO - Processing rule 6.5: Positions of the Offensive Team
+2025-04-22 10:44:37,851 - INFO - Progress: 93/238 rules processed
+2025-04-22 10:44:38,416 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:38,417 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:38,419 - INFO - Successfully generated QA for rule 6.3
+2025-04-22 10:44:38,419 - INFO - Processing rule 6.6: Positions of the Defensive Team
+2025-04-22 10:44:38,419 - INFO - Progress: 94/238 rules processed
+2025-04-22 10:44:38,420 - INFO - Successfully generated QA for rule 5.13
+2025-04-22 10:44:38,427 - INFO - Processing rule 6.7: Time Between Innings
+2025-04-22 10:44:38,427 - INFO - Progress: 95/238 rules processed
+2025-04-22 10:44:39,437 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:39,453 - INFO - Successfully generated QA for rule 6.4
+2025-04-22 10:44:39,453 - INFO - Processing rule 6.8: Live Ball
+2025-04-22 10:44:39,453 - INFO - Progress: 96/238 rules processed
+2025-04-22 10:44:39,997 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:39,999 - INFO - Successfully generated QA for rule 6.7
+2025-04-22 10:44:39,999 - INFO - Processing rule 6.9: Dead Ball
+2025-04-22 10:44:39,999 - INFO - Progress: 97/238 rules processed
+2025-04-22 10:44:40,201 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:40,204 - INFO - Successfully generated QA for rule 6.5
+2025-04-22 10:44:40,204 - INFO - Processing rule 6.10: Delayed Dead Ball
+2025-04-22 10:44:40,204 - INFO - Progress: 98/238 rules processed
+2025-04-22 10:44:40,281 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:40,296 - INFO - Successfully generated QA for rule 6.6
+2025-04-22 10:44:40,296 - INFO - Processing rule 6.11: Suspension and Resumption of Play
+2025-04-22 10:44:40,297 - INFO - Progress: 99/238 rules processed
+2025-04-22 10:44:41,123 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:41,135 - INFO - Successfully generated QA for rule 6.8
+2025-04-22 10:44:41,135 - INFO - Processing rule 6.12: Conferences
+2025-04-22 10:44:41,135 - INFO - Progress: 100/238 rules processed
+2025-04-22 10:44:41,842 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:41,844 - INFO - Successfully generated QA for rule 6.2
+2025-04-22 10:44:41,845 - INFO - Processing rule 6.13: Doubleheaders and Series
+2025-04-22 10:44:41,845 - INFO - Progress: 101/238 rules processed
+2025-04-22 10:44:42,559 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:42,562 - INFO - Successfully generated QA for rule 6.10
+2025-04-22 10:44:42,562 - INFO - Processing rule 6.14: Eight-Run Rule
+2025-04-22 10:44:42,562 - INFO - Progress: 102/238 rules processed
+2025-04-22 10:44:42,723 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:42,736 - INFO - Successfully generated QA for rule 6.12
+2025-04-22 10:44:42,736 - INFO - Processing rule 6.15: Tie Game (Regulation)
+2025-04-22 10:44:42,737 - INFO - Progress: 103/238 rules processed
+2025-04-22 10:44:43,035 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:43,145 - INFO - Successfully generated QA for rule 6.11
+2025-04-22 10:44:43,145 - INFO - Processing rule 6.16: Tiebreaker Rule
+2025-04-22 10:44:43,145 - INFO - Progress: 104/238 rules processed
+2025-04-22 10:44:43,478 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:43,479 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:43,533 - INFO - Successfully generated QA for rule 6.13
+2025-04-22 10:44:43,533 - INFO - Processing rule 6.17: Called Game
+2025-04-22 10:44:43,533 - INFO - Progress: 105/238 rules processed
+2025-04-22 10:44:43,561 - INFO - Successfully generated QA for rule 6.9
+2025-04-22 10:44:43,562 - INFO - Processing rule 6.18: Halted and Interrupted Games
+2025-04-22 10:44:43,562 - INFO - Progress: 106/238 rules processed
+2025-04-22 10:44:44,810 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:44,812 - INFO - Successfully generated QA for rule 6.14
+2025-04-22 10:44:44,813 - INFO - Processing rule 6.19: No Game
+2025-04-22 10:44:44,813 - INFO - Progress: 107/238 rules processed
+2025-04-22 10:44:44,895 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:44,897 - INFO - Successfully generated QA for rule 6.16
+2025-04-22 10:44:44,897 - INFO - Processing rule 6.20: Forfeited Game
+2025-04-22 10:44:44,897 - INFO - Progress: 108/238 rules processed
+2025-04-22 10:44:45,664 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:45,682 - INFO - Successfully generated QA for rule 6.18
+2025-04-22 10:44:45,683 - INFO - Processing rule 6.21: No Contest (per NCAA Statistics Policies)
+2025-04-22 10:44:45,683 - INFO - Progress: 109/238 rules processed
+2025-04-22 10:44:46,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:46,916 - INFO - Successfully generated QA for rule 6.17
+2025-04-22 10:44:46,916 - INFO - Processing rule 7.1: Appeals
+2025-04-22 10:44:46,916 - INFO - Progress: 110/238 rules processed
+2025-04-22 10:44:47,150 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:47,202 - INFO - Successfully generated QA for rule 6.20
+2025-04-22 10:44:47,202 - INFO - Processing rule 7.2: Protests
+2025-04-22 10:44:47,203 - INFO - Progress: 111/238 rules processed
+2025-04-22 10:44:47,451 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:47,557 - INFO - Successfully generated QA for rule 6.21
+2025-04-22 10:44:47,558 - INFO - Processing rule 7.3: Umpire’s Judgment
+2025-04-22 10:44:47,558 - INFO - Progress: 112/238 rules processed
+2025-04-22 10:44:47,732 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:47,839 - INFO - Successfully generated QA for rule 6.19
+2025-04-22 10:44:47,840 - INFO - Processing rule 8.1: Players on a Team
+2025-04-22 10:44:47,840 - INFO - Progress: 113/238 rules processed
+2025-04-22 10:44:48,804 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:48,806 - INFO - Successfully generated QA for rule 7.1
+2025-04-22 10:44:48,807 - INFO - Processing rule 8.2: Designated Player/Flex
+2025-04-22 10:44:48,807 - INFO - Progress: 114/238 rules processed
+2025-04-22 10:44:50,237 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:50,252 - INFO - Successfully generated QA for rule 7.3
+2025-04-22 10:44:50,252 - INFO - Processing rule 8.3: Improper Player
+2025-04-22 10:44:50,253 - INFO - Progress: 115/238 rules processed
+2025-04-22 10:44:50,648 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:50,651 - INFO - Successfully generated QA for rule 8.2
+2025-04-22 10:44:50,651 - INFO - Processing rule 8.4: Starting Player
+2025-04-22 10:44:50,652 - INFO - Progress: 116/238 rules processed
+2025-04-22 10:44:51,084 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:51,093 - INFO - Successfully generated QA for rule 8.1
+2025-04-22 10:44:51,093 - INFO - Processing rule 8.5: Substitute Player
+2025-04-22 10:44:51,093 - INFO - Progress: 117/238 rules processed
+2025-04-22 10:44:51,466 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:51,484 - INFO - Successfully generated QA for rule 7.2
+2025-04-22 10:44:51,485 - INFO - Processing rule 8.6: Reentry and Concussion Reentry
+2025-04-22 10:44:51,485 - INFO - Progress: 118/238 rules processed
+2025-04-22 10:44:52,387 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:52,469 - INFO - Successfully generated QA for rule 8.4
+2025-04-22 10:44:52,470 - INFO - Processing rule 9.1: No Huddle Defense
+2025-04-22 10:44:52,470 - INFO - Progress: 119/238 rules processed
+2025-04-22 10:44:52,798 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:52,816 - INFO - Successfully generated QA for rule 6.15
+2025-04-22 10:44:52,816 - INFO - Processing rule 9.2: Catch
+2025-04-22 10:44:52,816 - INFO - Progress: 120/238 rules processed
+2025-04-22 10:44:54,033 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:54,036 - INFO - Successfully generated QA for rule 8.6
+2025-04-22 10:44:54,036 - INFO - Processing rule 9.3: No Catch
+2025-04-22 10:44:54,036 - INFO - Progress: 121/238 rules processed
+2025-04-22 10:44:54,333 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:54,417 - INFO - Successfully generated QA for rule 8.3
+2025-04-22 10:44:54,417 - INFO - Processing rule 9.4: Catch and Carry
+2025-04-22 10:44:54,417 - INFO - Progress: 122/238 rules processed
+2025-04-22 10:44:54,853 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:54,925 - INFO - Successfully generated QA for rule 9.2
+2025-04-22 10:44:54,926 - INFO - Processing rule 9.5: Obstruction
+2025-04-22 10:44:54,926 - INFO - Progress: 123/238 rules processed
+2025-04-22 10:44:55,459 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:55,461 - INFO - Successfully generated QA for rule 8.5
+2025-04-22 10:44:55,461 - INFO - Processing rule 9.6: Umpire Interference
+2025-04-22 10:44:55,461 - INFO - Progress: 124/238 rules processed
+2025-04-22 10:44:55,973 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:55,976 - INFO - Successfully generated QA for rule 9.1
+2025-04-22 10:44:55,976 - INFO - Processing rule 9.7: Equipment Blocked Ball
+2025-04-22 10:44:55,981 - INFO - Progress: 125/238 rules processed
+2025-04-22 10:44:56,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:56,416 - INFO - Successfully generated QA for rule 9.4
+2025-04-22 10:44:56,417 - INFO - Processing rule 9.8: Foul Batted Blocked Ball
+2025-04-22 10:44:56,417 - INFO - Progress: 126/238 rules processed
+2025-04-22 10:44:56,662 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:56,666 - INFO - Successfully generated QA for rule 9.3
+2025-04-22 10:44:56,667 - INFO - Processing rule 9.9: Fair Batted Blocked Ball
+2025-04-22 10:44:56,667 - INFO - Progress: 127/238 rules processed
+2025-04-22 10:44:57,657 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:57,658 - INFO - Successfully generated QA for rule 9.7
+2025-04-22 10:44:57,659 - INFO - Processing rule 9.10: Live Thrown Blocked Ball
+2025-04-22 10:44:57,659 - INFO - Progress: 128/238 rules processed
+2025-04-22 10:44:57,967 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:57,979 - INFO - Successfully generated QA for rule 9.5
+2025-04-22 10:44:57,980 - INFO - Processing rule 9.11: Pitched Blocked Ball
+2025-04-22 10:44:57,980 - INFO - Progress: 129/238 rules processed
+2025-04-22 10:44:58,069 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:58,078 - INFO - Successfully generated QA for rule 9.8
+2025-04-22 10:44:58,078 - INFO - Processing rule 9.12: Game Personnel in Unauthorized Areas
+2025-04-22 10:44:58,078 - INFO - Progress: 130/238 rules processed
+2025-04-22 10:44:58,430 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:58,432 - INFO - Successfully generated QA for rule 9.9
+2025-04-22 10:44:58,432 - INFO - Processing rule 10.1: Pitching Position Required for a Legal Pitch
+2025-04-22 10:44:58,432 - INFO - Progress: 131/238 rules processed
+2025-04-22 10:44:58,999 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:59,046 - INFO - Successfully generated QA for rule 9.6
+2025-04-22 10:44:59,047 - INFO - Processing rule 10.2: Taking the Signal
+2025-04-22 10:44:59,047 - INFO - Progress: 132/238 rules processed
+2025-04-22 10:44:59,299 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:59,323 - INFO - Successfully generated QA for rule 9.10
+2025-04-22 10:44:59,323 - INFO - Processing rule 10.3: Start of the Pitch
+2025-04-22 10:44:59,323 - INFO - Progress: 133/238 rules processed
+2025-04-22 10:44:59,857 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:44:59,859 - INFO - Successfully generated QA for rule 9.12
+2025-04-22 10:44:59,859 - INFO - Processing rule 10.4: The Windup
+2025-04-22 10:44:59,860 - INFO - Progress: 134/238 rules processed
+2025-04-22 10:45:00,783 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:00,783 - INFO - Successfully generated QA for rule 9.11
+2025-04-22 10:45:00,783 - INFO - Processing rule 10.5: Step/Stride
+2025-04-22 10:45:00,783 - INFO - Progress: 135/238 rules processed
+2025-04-22 10:45:00,991 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:01,035 - INFO - Successfully generated QA for rule 10.1
+2025-04-22 10:45:01,036 - INFO - Processing rule 10.6: Delivery
+2025-04-22 10:45:01,036 - INFO - Progress: 136/238 rules processed
+2025-04-22 10:45:01,157 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:01,258 - INFO - Successfully generated QA for rule 10.2
+2025-04-22 10:45:01,258 - INFO - Processing rule 10.7: Ball Dropped During Pitch
+2025-04-22 10:45:01,258 - INFO - Progress: 137/238 rules processed
+2025-04-22 10:45:01,263 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:01,400 - INFO - Successfully generated QA for rule 10.3
+2025-04-22 10:45:01,400 - INFO - Processing rule 10.8: Illegal Pitch
+2025-04-22 10:45:01,400 - INFO - Progress: 138/238 rules processed
+2025-04-22 10:45:01,560 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:01,662 - INFO - Successfully generated QA for rule 10.4
+2025-04-22 10:45:01,663 - INFO - Processing rule 10.9: Quick Pitch
+2025-04-22 10:45:01,663 - INFO - Progress: 139/238 rules processed
+2025-04-22 10:45:02,424 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:02,426 - INFO - Successfully generated QA for rule 10.5
+2025-04-22 10:45:02,427 - INFO - Processing rule 10.10: No Pitch
+2025-04-22 10:45:02,427 - INFO - Progress: 140/238 rules processed
+2025-04-22 10:45:03,080 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:03,082 - INFO - Successfully generated QA for rule 10.6
+2025-04-22 10:45:03,082 - INFO - Processing rule 10.11: Discontinuing a Pitch/Stepping Off the Pitcher’s Plate
+2025-04-22 10:45:03,083 - INFO - Progress: 141/238 rules processed
+2025-04-22 10:45:03,180 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:03,181 - INFO - Successfully generated QA for rule 10.7
+2025-04-22 10:45:03,182 - INFO - Processing rule 10.12: Ball Rotation
+2025-04-22 10:45:03,182 - INFO - Progress: 142/238 rules processed
+2025-04-22 10:45:03,989 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:03,994 - INFO - Successfully generated QA for rule 10.10
+2025-04-22 10:45:03,994 - INFO - Processing rule 10.13: Substance on the Ball/Items on Pitcher
+2025-04-22 10:45:03,994 - INFO - Progress: 143/238 rules processed
+2025-04-22 10:45:04,178 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:04,180 - INFO - Successfully generated QA for rule 10.9
+2025-04-22 10:45:04,180 - INFO - Processing rule 10.14: Intentionally Pitching at a Batter or Umpire
+2025-04-22 10:45:04,181 - INFO - Progress: 144/238 rules processed
+2025-04-22 10:45:04,371 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:04,373 - INFO - Successfully generated QA for rule 10.8
+2025-04-22 10:45:04,373 - INFO - Processing rule 10.15: Intentional Base on Balls
+2025-04-22 10:45:04,374 - INFO - Progress: 145/238 rules processed
+2025-04-22 10:45:04,825 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:04,828 - INFO - Successfully generated QA for rule 10.11
+2025-04-22 10:45:04,828 - INFO - Processing rule 10.16: Returning a Pitched Ball to the Pitcher
+2025-04-22 10:45:04,828 - INFO - Progress: 146/238 rules processed
+2025-04-22 10:45:05,800 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:05,834 - INFO - Successfully generated QA for rule 10.15
+2025-04-22 10:45:05,834 - INFO - Processing rule 10.17: Throwing to a Base From the Pitcher’s Plate
+2025-04-22 10:45:05,834 - INFO - Progress: 147/238 rules processed
+2025-04-22 10:45:06,221 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:06,222 - INFO - Successfully generated QA for rule 10.14
+2025-04-22 10:45:06,223 - INFO - Processing rule 10.18: Time Allowed Between Pitches
+2025-04-22 10:45:06,223 - INFO - Progress: 148/238 rules processed
+2025-04-22 10:45:06,662 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:06,670 - INFO - Successfully generated QA for rule 10.16
+2025-04-22 10:45:06,670 - INFO - Processing rule 10.19: Warmup Pitches
+2025-04-22 10:45:06,671 - INFO - Progress: 149/238 rules processed
+2025-04-22 10:45:06,961 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:06,968 - INFO - Successfully generated QA for rule 10.13
+2025-04-22 10:45:06,968 - INFO - Processing rule 11.1: On-Deck Batter
+2025-04-22 10:45:06,968 - INFO - Progress: 150/238 rules processed
+2025-04-22 10:45:07,435 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:07,440 - INFO - Successfully generated QA for rule 10.12
+2025-04-22 10:45:07,441 - INFO - Processing rule 11.2: Legal Position in the Batter’s Box
+2025-04-22 10:45:07,441 - INFO - Progress: 151/238 rules processed
+2025-04-22 10:45:08,054 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:08,056 - INFO - Successfully generated QA for rule 10.17
+2025-04-22 10:45:08,056 - INFO - Processing rule 11.3: Balls and Strikes
+2025-04-22 10:45:08,056 - INFO - Progress: 152/238 rules processed
+2025-04-22 10:45:08,569 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:08,571 - INFO - Successfully generated QA for rule 10.19
+2025-04-22 10:45:08,571 - INFO - Processing rule 11.4: Fair Ball
+2025-04-22 10:45:08,571 - INFO - Progress: 153/238 rules processed
+2025-04-22 10:45:09,033 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:09,035 - INFO - Successfully generated QA for rule 11.1
+2025-04-22 10:45:09,036 - INFO - Processing rule 11.5: Foul Ball
+2025-04-22 10:45:09,036 - INFO - Progress: 154/238 rules processed
+2025-04-22 10:45:09,240 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:09,258 - INFO - Successfully generated QA for rule 10.18
+2025-04-22 10:45:09,259 - INFO - Processing rule 11.6: Foul Tip
+2025-04-22 10:45:09,259 - INFO - Progress: 155/238 rules processed
+2025-04-22 10:45:10,027 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:10,042 - INFO - Successfully generated QA for rule 11.2
+2025-04-22 10:45:10,042 - INFO - Processing rule 11.7: Hits, Bunts, Slaps
+2025-04-22 10:45:10,043 - INFO - Progress: 156/238 rules processed
+2025-04-22 10:45:10,617 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:10,618 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:10,619 - INFO - Successfully generated QA for rule 11.4
+2025-04-22 10:45:10,619 - INFO - Successfully generated QA for rule 11.3
+2025-04-22 10:45:10,620 - INFO - Processing rule 11.8: Batting Order
+2025-04-22 10:45:10,620 - INFO - Progress: 157/238 rules processed
+2025-04-22 10:45:10,620 - INFO - Processing rule 11.9: Batting Out of Order (See also Appendix B)
+2025-04-22 10:45:10,624 - INFO - Progress: 158/238 rules processed
+2025-04-22 10:45:12,182 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:12,209 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:12,233 - INFO - Successfully generated QA for rule 11.7
+2025-04-22 10:45:12,233 - INFO - Processing rule 11.10: Checked Swing
+2025-04-22 10:45:12,233 - INFO - Progress: 159/238 rules processed
+2025-04-22 10:45:12,248 - INFO - Successfully generated QA for rule 11.6
+2025-04-22 10:45:12,248 - INFO - Processing rule 11.11: Dropped Third-Strike Rule
+2025-04-22 10:45:12,248 - INFO - Progress: 160/238 rules processed
+2025-04-22 10:45:12,941 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:12,944 - INFO - Successfully generated QA for rule 11.9
+2025-04-22 10:45:12,944 - INFO - Processing rule 11.12: Hitting Ball a Second Time
+2025-04-22 10:45:12,944 - INFO - Progress: 161/238 rules processed
+2025-04-22 10:45:14,030 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:14,045 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:14,054 - INFO - Successfully generated QA for rule 11.5
+2025-04-22 10:45:14,055 - INFO - Processing rule 11.13: Hit Batter (by Pitch)
+2025-04-22 10:45:14,055 - INFO - Progress: 162/238 rules processed
+2025-04-22 10:45:14,077 - INFO - Successfully generated QA for rule 11.11
+2025-04-22 10:45:14,077 - INFO - Processing rule 11.14: Batted Ball Off Batter, Attached Equipment, Clothing
+2025-04-22 10:45:14,081 - INFO - Progress: 163/238 rules processed
+2025-04-22 10:45:14,505 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:14,532 - INFO - Successfully generated QA for rule 11.10
+2025-04-22 10:45:14,532 - INFO - Processing rule 11.15: Illegally Batted Ball
+2025-04-22 10:45:14,532 - INFO - Progress: 164/238 rules processed
+2025-04-22 10:45:14,912 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:14,914 - INFO - Successfully generated QA for rule 11.12
+2025-04-22 10:45:14,915 - INFO - Processing rule 11.16: Infield Fly Rule
+2025-04-22 10:45:14,915 - INFO - Progress: 165/238 rules processed
+2025-04-22 10:45:15,731 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:15,734 - INFO - Successfully generated QA for rule 11.14
+2025-04-22 10:45:15,734 - INFO - Processing rule 11.17: Intentionally Dropped Fair Fly Ball
+2025-04-22 10:45:15,735 - INFO - Progress: 166/238 rules processed
+2025-04-22 10:45:16,556 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:16,635 - INFO - Successfully generated QA for rule 11.13
+2025-04-22 10:45:16,635 - INFO - Processing rule 11.18: Interference
+2025-04-22 10:45:16,635 - INFO - Progress: 167/238 rules processed
+2025-04-22 10:45:17,377 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:17,378 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:17,380 - INFO - Successfully generated QA for rule 11.16
+2025-04-22 10:45:17,380 - INFO - Processing rule 11.19: Interference by On-Deck Batter or Offensive Team Personnel
+2025-04-22 10:45:17,381 - INFO - Progress: 168/238 rules processed
+2025-04-22 10:45:17,381 - INFO - Successfully generated QA for rule 11.8
+2025-04-22 10:45:17,387 - INFO - Processing rule 11.20: Interference by Batter
+2025-04-22 10:45:17,388 - INFO - Progress: 169/238 rules processed
+2025-04-22 10:45:17,441 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:17,452 - INFO - Successfully generated QA for rule 11.17
+2025-04-22 10:45:17,452 - INFO - Processing rule 11.21: Batter is Out
+2025-04-22 10:45:17,453 - INFO - Progress: 170/238 rules processed
+2025-04-22 10:45:17,728 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:17,741 - INFO - Successfully generated QA for rule 11.15
+2025-04-22 10:45:17,742 - INFO - Processing rule 12.1: Batter Becomes a Batter-Runner, and Base Runner(s) May
+2025-04-22 10:45:17,742 - INFO - Progress: 171/238 rules processed
+2025-04-22 10:45:18,747 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:18,804 - INFO - Successfully generated QA for rule 11.18
+2025-04-22 10:45:18,804 - INFO - Processing rule 12.2: Runner(s) May Advance With Liability to Be Put Out
+2025-04-22 10:45:18,804 - INFO - Progress: 172/238 rules processed
+2025-04-22 10:45:19,423 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:19,425 - INFO - Successfully generated QA for rule 11.21
+2025-04-22 10:45:19,426 - INFO - Processing rule 12.3: Base Runner(s) May Advance With Liability to be Put Out
+2025-04-22 10:45:19,426 - INFO - Progress: 173/238 rules processed
+2025-04-22 10:45:20,259 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:20,364 - INFO - Successfully generated QA for rule 11.20
+2025-04-22 10:45:20,364 - INFO - Processing rule 12.4: Runner is Out
+2025-04-22 10:45:20,364 - INFO - Progress: 174/238 rules processed
+2025-04-22 10:45:20,548 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:20,550 - INFO - Successfully generated QA for rule 12.1
+2025-04-22 10:45:20,550 - INFO - Processing rule 12.5: Batter-Runner is Out
+2025-04-22 10:45:20,550 - INFO - Progress: 175/238 rules processed
+2025-04-22 10:45:21,113 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:21,121 - INFO - Successfully generated QA for rule 12.3
+2025-04-22 10:45:21,121 - INFO - Processing rule 12.6: Base Runner Is Out
+2025-04-22 10:45:21,122 - INFO - Progress: 176/238 rules processed
+2025-04-22 10:45:21,205 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:21,212 - INFO - Successfully generated QA for rule 12.2
+2025-04-22 10:45:21,212 - INFO - Processing rule 12.7: Runner is Out After a Proper Appeal
+2025-04-22 10:45:21,213 - INFO - Progress: 177/238 rules processed
+2025-04-22 10:45:21,879 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:21,882 - INFO - Successfully generated QA for rule 12.5
+2025-04-22 10:45:21,882 - INFO - Processing rule 12.8: Base Runner Is Out After a Proper Appeal
+2025-04-22 10:45:21,882 - INFO - Progress: 178/238 rules processed
+2025-04-22 10:45:23,007 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:23,009 - INFO - Successfully generated QA for rule 12.6
+2025-04-22 10:45:23,009 - INFO - Processing rule 12.9: Tag and Force Plays
+2025-04-22 10:45:23,010 - INFO - Progress: 179/238 rules processed
+2025-04-22 10:45:23,398 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:23,425 - INFO - Successfully generated QA for rule 12.4
+2025-04-22 10:45:23,425 - INFO - Processing rule 12.10: Running the Bases, Missing a Base, Tagging Up after a Caught
+2025-04-22 10:45:23,425 - INFO - Progress: 180/238 rules processed
+2025-04-22 10:45:23,805 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:23,858 - INFO - Successfully generated QA for rule 12.8
+2025-04-22 10:45:23,859 - INFO - Processing rule 12.11: Abandoning a Base or Effort to Run the Bases
+2025-04-22 10:45:23,865 - INFO - Progress: 181/238 rules processed
+2025-04-22 10:45:24,348 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:24,403 - INFO - Successfully generated QA for rule 11.19
+2025-04-22 10:45:24,403 - INFO - Processing rule 12.12: Base Awards
+2025-04-22 10:45:24,404 - INFO - Progress: 182/238 rules processed
+2025-04-22 10:45:25,122 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:25,124 - INFO - Successfully generated QA for rule 12.10
+2025-04-22 10:45:25,124 - INFO - Processing rule 12.13: Collisions
+2025-04-22 10:45:25,125 - INFO - Progress: 183/238 rules processed
+2025-04-22 10:45:25,413 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:25,420 - INFO - Successfully generated QA for rule 12.7
+2025-04-22 10:45:25,421 - INFO - Processing rule 12.14: Leaving A Base
+2025-04-22 10:45:25,421 - INFO - Progress: 184/238 rules processed
+2025-04-22 10:45:25,558 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:25,610 - INFO - Successfully generated QA for rule 12.9
+2025-04-22 10:45:25,611 - INFO - Processing rule 12.15: Occupying Bases
+2025-04-22 10:45:25,611 - INFO - Progress: 185/238 rules processed
+2025-04-22 10:45:26,182 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:26,184 - INFO - Successfully generated QA for rule 12.11
+2025-04-22 10:45:26,185 - INFO - Processing rule 12.16: Look-Back Rule
+2025-04-22 10:45:26,185 - INFO - Progress: 186/238 rules processed
+2025-04-22 10:45:26,899 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:26,901 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:26,903 - INFO - Successfully generated QA for rule 12.12
+2025-04-22 10:45:26,904 - INFO - Processing rule 12.17: Interference
+2025-04-22 10:45:26,904 - INFO - Successfully generated QA for rule 12.13
+2025-04-22 10:45:26,905 - INFO - Progress: 187/238 rules processed
+2025-04-22 10:45:26,911 - INFO - Processing rule 13.1: Warnings
+2025-04-22 10:45:26,912 - INFO - Progress: 188/238 rules processed
+2025-04-22 10:45:27,934 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:27,936 - INFO - Successfully generated QA for rule 12.14
+2025-04-22 10:45:27,936 - INFO - Processing rule 13.2: Ejections
+2025-04-22 10:45:27,936 - INFO - Progress: 189/238 rules processed
+2025-04-22 10:45:28,432 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:28,435 - INFO - Successfully generated QA for rule 13.1
+2025-04-22 10:45:28,436 - INFO - Processing rule 13.3: Misconduct
+2025-04-22 10:45:28,436 - INFO - Progress: 190/238 rules processed
+2025-04-22 10:45:29,870 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:29,873 - INFO - Successfully generated QA for rule 12.17
+2025-04-22 10:45:29,873 - INFO - Processing rule 13.4: Physical Contact with an Umpire or Opponent
+2025-04-22 10:45:29,874 - INFO - Progress: 191/238 rules processed
+2025-04-22 10:45:29,910 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:29,911 - INFO - Successfully generated QA for rule 13.3
+2025-04-22 10:45:29,911 - INFO - Processing rule 13.5: Leaving Team Area to Join a Brawl
+2025-04-22 10:45:29,911 - INFO - Progress: 192/238 rules processed
+2025-04-22 10:45:30,378 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:30,380 - INFO - Successfully generated QA for rule 12.15
+2025-04-22 10:45:30,380 - INFO - Processing rule 13.6: Ejection Prevents Play
+2025-04-22 10:45:30,381 - INFO - Progress: 193/238 rules processed
+2025-04-22 10:45:30,788 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:30,788 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:30,789 - INFO - Successfully generated QA for rule 12.16
+2025-04-22 10:45:30,789 - INFO - Processing rule 13.7: Equipment Misuse
+2025-04-22 10:45:30,791 - INFO - Progress: 194/238 rules processed
+2025-04-22 10:45:30,794 - INFO - Successfully generated QA for rule 13.2
+2025-04-22 10:45:30,794 - INFO - Processing rule 13.8: Intentionally Pitching at a Batter or Umpire
+2025-04-22 10:45:30,794 - INFO - Progress: 195/238 rules processed
+2025-04-22 10:45:31,811 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:31,813 - INFO - Successfully generated QA for rule 13.6
+2025-04-22 10:45:31,814 - INFO - Processing rule 13.9: Inciting the Crowd
+2025-04-22 10:45:31,814 - INFO - Progress: 196/238 rules processed
+2025-04-22 10:45:31,826 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:31,846 - INFO - Successfully generated QA for rule 13.5
+2025-04-22 10:45:31,846 - INFO - Processing rule 13.10: Calling Timeout when Ball is in Play
+2025-04-22 10:45:31,846 - INFO - Progress: 197/238 rules processed
+2025-04-22 10:45:32,432 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:32,499 - INFO - Successfully generated QA for rule 13.8
+2025-04-22 10:45:32,499 - INFO - Processing rule 13.11: Tobacco Use
+2025-04-22 10:45:32,500 - INFO - Progress: 198/238 rules processed
+2025-04-22 10:45:33,704 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:33,715 - INFO - Successfully generated QA for rule 13.7
+2025-04-22 10:45:33,715 - INFO - Processing rule 13.12: Refusal to Play
+2025-04-22 10:45:33,720 - INFO - Progress: 199/238 rules processed
+2025-04-22 10:45:34,197 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:34,303 - INFO - Successfully generated QA for rule 13.10
+2025-04-22 10:45:34,304 - INFO - Processing rule 13.13: Ejected/Suspended Personnel Violations
+2025-04-22 10:45:34,304 - INFO - Progress: 200/238 rules processed
+2025-04-22 10:45:34,886 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:34,887 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:34,936 - INFO - Successfully generated QA for rule 13.11
+2025-04-22 10:45:34,936 - INFO - Processing rule 14.1: Scoring Terms
+2025-04-22 10:45:34,936 - INFO - Progress: 201/238 rules processed
+2025-04-22 10:45:34,959 - INFO - Successfully generated QA for rule 13.9
+2025-04-22 10:45:34,959 - INFO - Processing rule 14.2: Base Hit
+2025-04-22 10:45:34,959 - INFO - Progress: 202/238 rules processed
+2025-04-22 10:45:35,190 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:35,193 - INFO - Successfully generated QA for rule 13.4
+2025-04-22 10:45:35,194 - INFO - Processing rule 14.3: Base Hit Not Credited
+2025-04-22 10:45:35,194 - INFO - Progress: 203/238 rules processed
+2025-04-22 10:45:35,396 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:35,398 - INFO - Successfully generated QA for rule 13.12
+2025-04-22 10:45:35,399 - INFO - Processing rule 14.4: Extra-Base Hit
+2025-04-22 10:45:35,399 - INFO - Progress: 204/238 rules processed
+2025-04-22 10:45:35,806 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:35,806 - INFO - Successfully generated QA for rule 13.13
+2025-04-22 10:45:35,806 - INFO - Processing rule 14.5: Game-Ending Hit
+2025-04-22 10:45:35,806 - INFO - Progress: 205/238 rules processed
+2025-04-22 10:45:36,932 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:36,983 - INFO - Successfully generated QA for rule 14.4
+2025-04-22 10:45:36,984 - INFO - Processing rule 14.6: Fielder’s Choice
+2025-04-22 10:45:36,984 - INFO - Progress: 206/238 rules processed
+2025-04-22 10:45:37,072 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:37,095 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:37,159 - INFO - Successfully generated QA for rule 14.2
+2025-04-22 10:45:37,159 - INFO - Processing rule 14.7: Sacrifice
+2025-04-22 10:45:37,159 - INFO - Progress: 207/238 rules processed
+2025-04-22 10:45:37,166 - INFO - Successfully generated QA for rule 14.1
+2025-04-22 10:45:37,166 - INFO - Processing rule 14.8: Sacrifice Not Credited
+2025-04-22 10:45:37,166 - INFO - Progress: 208/238 rules processed
+2025-04-22 10:45:38,366 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:38,389 - INFO - Successfully generated QA for rule 14.5
+2025-04-22 10:45:38,389 - INFO - Processing rule 14.9: Sacrifice Fly
+2025-04-22 10:45:38,389 - INFO - Progress: 209/238 rules processed
+2025-04-22 10:45:38,779 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:38,781 - INFO - Successfully generated QA for rule 14.6
+2025-04-22 10:45:38,782 - INFO - Processing rule 14.10: Run Batted In (RBI)
+2025-04-22 10:45:38,782 - INFO - Progress: 210/238 rules processed
+2025-04-22 10:45:38,986 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:39,053 - INFO - Successfully generated QA for rule 14.8
+2025-04-22 10:45:39,054 - INFO - Processing rule 14.11: Appeal Plays
+2025-04-22 10:45:39,054 - INFO - Progress: 211/238 rules processed
+2025-04-22 10:45:40,276 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:40,289 - INFO - Successfully generated QA for rule 14.7
+2025-04-22 10:45:40,289 - INFO - Processing rule 14.12: Strikeout
+2025-04-22 10:45:40,289 - INFO - Progress: 212/238 rules processed
+2025-04-22 10:45:40,506 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:40,508 - INFO - Successfully generated QA for rule 14.9
+2025-04-22 10:45:40,508 - INFO - Processing rule 14.13: Stolen Base
+2025-04-22 10:45:40,508 - INFO - Progress: 213/238 rules processed
+2025-04-22 10:45:40,563 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:40,645 - INFO - Successfully generated QA for rule 14.3
+2025-04-22 10:45:40,645 - INFO - Processing rule 14.14: Stolen Base Not Credited
+2025-04-22 10:45:40,645 - INFO - Progress: 214/238 rules processed
+2025-04-22 10:45:41,911 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:41,917 - INFO - Successfully generated QA for rule 14.11
+2025-04-22 10:45:41,917 - INFO - Processing rule 14.15: Caught Stealing
+2025-04-22 10:45:41,918 - INFO - Progress: 215/238 rules processed
+2025-04-22 10:45:41,978 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:41,990 - INFO - Successfully generated QA for rule 14.12
+2025-04-22 10:45:41,990 - INFO - Processing rule 14.16: Throw Outs
+2025-04-22 10:45:41,990 - INFO - Progress: 216/238 rules processed
+2025-04-22 10:45:43,280 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:43,377 - INFO - Successfully generated QA for rule 14.15
+2025-04-22 10:45:43,377 - INFO - Processing rule 14.17: Pick-Off
+2025-04-22 10:45:43,377 - INFO - Progress: 217/238 rules processed
+2025-04-22 10:45:43,793 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:43,811 - INFO - Successfully generated QA for rule 14.13
+2025-04-22 10:45:43,811 - INFO - Processing rule 14.18: Putout
+2025-04-22 10:45:43,812 - INFO - Progress: 218/238 rules processed
+2025-04-22 10:45:43,905 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:43,958 - INFO - Successfully generated QA for rule 14.16
+2025-04-22 10:45:43,958 - INFO - Processing rule 14.19: Assist
+2025-04-22 10:45:43,958 - INFO - Progress: 219/238 rules processed
+2025-04-22 10:45:43,978 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:44,059 - INFO - Successfully generated QA for rule 14.14
+2025-04-22 10:45:44,060 - INFO - Processing rule 14.20: Error
+2025-04-22 10:45:44,060 - INFO - Progress: 220/238 rules processed
+2025-04-22 10:45:45,414 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:45,418 - INFO - Successfully generated QA for rule 14.10
+2025-04-22 10:45:45,418 - INFO - Processing rule 14.21: No Error Is Charged
+2025-04-22 10:45:45,418 - INFO - Progress: 221/238 rules processed
+2025-04-22 10:45:45,433 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:45,439 - INFO - Successfully generated QA for rule 14.17
+2025-04-22 10:45:45,439 - INFO - Processing rule 14.22: Double Play/Triple Play
+2025-04-22 10:45:45,439 - INFO - Progress: 222/238 rules processed
+2025-04-22 10:45:45,570 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:45,581 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:45,676 - INFO - Successfully generated QA for rule 14.19
+2025-04-22 10:45:45,677 - INFO - Processing rule 14.23: Earned/Unearned Run
+2025-04-22 10:45:45,677 - INFO - Progress: 223/238 rules processed
+2025-04-22 10:45:45,686 - INFO - Successfully generated QA for rule 14.18
+2025-04-22 10:45:45,686 - INFO - Processing rule 14.24: Runs Charged to Starting Pitcher
+2025-04-22 10:45:45,686 - INFO - Progress: 224/238 rules processed
+2025-04-22 10:45:46,375 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:46,481 - INFO - Successfully generated QA for rule 14.20
+2025-04-22 10:45:46,482 - INFO - Processing rule 14.25: Runs Charged to Relief Pitcher
+2025-04-22 10:45:46,482 - INFO - Progress: 225/238 rules processed
+2025-04-22 10:45:47,555 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:47,561 - INFO - Successfully generated QA for rule 14.22
+2025-04-22 10:45:47,561 - INFO - Processing rule 14.26: Strikeout
+2025-04-22 10:45:47,561 - INFO - Progress: 226/238 rules processed
+2025-04-22 10:45:47,890 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:47,893 - INFO - Successfully generated QA for rule 14.23
+2025-04-22 10:45:47,893 - INFO - Processing rule 14.27: Wild Pitch
+2025-04-22 10:45:47,894 - INFO - Progress: 227/238 rules processed
+2025-04-22 10:45:48,538 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:48,539 - INFO - Successfully generated QA for rule 14.21
+2025-04-22 10:45:48,539 - INFO - Processing rule 14.28: Passed Ball
+2025-04-22 10:45:48,539 - INFO - Progress: 228/238 rules processed
+2025-04-22 10:45:48,632 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:48,640 - INFO - Successfully generated QA for rule 14.25
+2025-04-22 10:45:48,640 - INFO - Processing rule 14.29: Pitching Statistics
+2025-04-22 10:45:48,640 - INFO - Progress: 229/238 rules processed
+2025-04-22 10:45:48,980 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:48,992 - INFO - Successfully generated QA for rule 14.24
+2025-04-22 10:45:48,992 - INFO - Processing rule 14.30: Tiebreaker Rule
+2025-04-22 10:45:48,993 - INFO - Progress: 230/238 rules processed
+2025-04-22 10:45:49,916 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:49,919 - INFO - Successfully generated QA for rule 14.26
+2025-04-22 10:45:49,919 - INFO - Processing rule 14.31: Cumulative Performance Records
+2025-04-22 10:45:49,920 - INFO - Progress: 231/238 rules processed
+2025-04-22 10:45:50,452 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:50,455 - INFO - Successfully generated QA for rule 14.28
+2025-04-22 10:45:50,455 - INFO - Processing rule 14.32: Called, Forfeited and Protested Games
+2025-04-22 10:45:50,455 - INFO - Progress: 232/238 rules processed
+2025-04-22 10:45:50,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:50,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:50,915 - INFO - Successfully generated QA for rule 14.30
+2025-04-22 10:45:50,915 - INFO - Processing rule 14.33: Proving the Box Score
+2025-04-22 10:45:50,915 - INFO - Progress: 233/238 rules processed
+2025-04-22 10:45:50,944 - INFO - Successfully generated QA for rule 14.27
+2025-04-22 10:45:50,945 - INFO - Progress: 234/238 rules processed
+2025-04-22 10:45:51,026 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:51,030 - INFO - Successfully generated QA for rule 14.29
+2025-04-22 10:45:51,030 - INFO - Progress: 235/238 rules processed
+2025-04-22 10:45:51,370 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:51,393 - INFO - Successfully generated QA for rule 14.31
+2025-04-22 10:45:51,393 - INFO - Progress: 236/238 rules processed
+2025-04-22 10:45:52,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:52,916 - INFO - Successfully generated QA for rule 14.32
+2025-04-22 10:45:52,916 - INFO - Progress: 237/238 rules processed
+2025-04-22 10:45:53,732 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-22 10:45:53,734 - INFO - Successfully generated QA for rule 14.33
+2025-04-22 10:45:53,735 - INFO - Progress: 238/238 rules processed
+2025-04-22 10:45:53,736 - INFO - QA generation process completed
