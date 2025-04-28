@@ -11,7 +11,8 @@ pdf_path = "PDFs/NCAA_Softball_Rulebook_202223.pdf"
 
 
 # ------------------ Extract Text From PDF With Rules Only ------------------ #
-def extract_text_from_pdf_with_rules_only(pdf_path):
+def extract_text_from_pdf_with_rules_only(pdf_path: str) -> str:
+
     full_text = ""
     rule_header_pattern = re.compile(r"^\d+\.\d+\s+.+")
 
@@ -30,7 +31,7 @@ def extract_text_from_pdf_with_rules_only(pdf_path):
 
 
 # ------------------ Chunk Rules ------------------ #
-def chunk_rules(text):
+def chunk_rules(text: str) -> list[dict]:
     lines = text.split("\n")
     rule_chunks = []
 
@@ -68,7 +69,7 @@ def chunk_rules(text):
 
 
 # ------------------ Add Metadata To Rules ------------------ #
-def add_metadata(rule_chunks, source="NCAA Rulebook 2022-23"):
+def add_metadata(rule_chunks: list[dict], source: str = "NCAA Rulebook 2022-23") -> list[dict]:
     # Filter out garbage first
     filtered = [
         chunk for chunk in rule_chunks

@@ -1,0 +1,1025 @@
+[
+  {
+    "content": "PitchNo (A) Pitch #",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_PitchNo",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "PitchNo",
+      "column_letter": "A"
+    }
+  },
+  {
+    "content": "Date (B)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Date",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Date",
+      "column_letter": "B"
+    }
+  },
+  {
+    "content": "Time (C) time pitch was thrown",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Time",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Time",
+      "column_letter": "C"
+    }
+  },
+  {
+    "content": "PAofInning (D) plate appearance of inning",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_PAofInning",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "PAofInning",
+      "column_letter": "D"
+    }
+  },
+  {
+    "content": "PitchofPA (E) pitch # of that plate appearance",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_PitchofPA",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "PitchofPA",
+      "column_letter": "E"
+    }
+  },
+  {
+    "content": "Pitch (F) pitcher name",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Pitch",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Pitch",
+      "column_letter": "F"
+    }
+  },
+  {
+    "content": "Pitcherid (G) specific ID # applied to that pitcher",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Pitcherid",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Pitcherid",
+      "column_letter": "G"
+    }
+  },
+  {
+    "content": "PitcherThrows (H) hand side of pitcher",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_PitcherThrows",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "PitcherThrows",
+      "column_letter": "H"
+    }
+  },
+  {
+    "content": "PitcherTeam (I) team the pitcher is playing for",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_PitcherTeam",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "PitcherTeam",
+      "column_letter": "I"
+    }
+  },
+  {
+    "content": "Batter (J) name of batter for that PA",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Batter",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Batter",
+      "column_letter": "J"
+    }
+  },
+  {
+    "content": "Batterid (K) specific ID # applied to that hittier",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Batterid",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Batterid",
+      "column_letter": "K"
+    }
+  },
+  {
+    "content": "BatterSide (L) bat side of hitter",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_BatterSide",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "BatterSide",
+      "column_letter": "L"
+    }
+  },
+  {
+    "content": "BatterTeam (M) team of batter",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_BatterTeam",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "BatterTeam",
+      "column_letter": "M"
+    }
+  },
+  {
+    "content": "PitcherSet (N) pitcher delivering out of stretchor windup",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_PitcherSet",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "PitcherSet",
+      "column_letter": "N"
+    }
+  },
+  {
+    "content": "Inning (O)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Inning",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Inning",
+      "column_letter": "O"
+    }
+  },
+  {
+    "content": "Top/Bottom (P) top or bottom of inning",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Top/Bottom",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Top/Bottom",
+      "column_letter": "P"
+    }
+  },
+  {
+    "content": "Outs (Q)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Outs",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Outs",
+      "column_letter": "Q"
+    }
+  },
+  {
+    "content": "Balls (R)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Balls",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Balls",
+      "column_letter": "R"
+    }
+  },
+  {
+    "content": "Strikes (S)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Strikes",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Strikes",
+      "column_letter": "S"
+    }
+  },
+  {
+    "content": "TaggedPitch (T) pitch type",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_TaggedPitch",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "TaggedPitch",
+      "column_letter": "T"
+    }
+  },
+  {
+    "content": "AutoPitchType (U) pitch type tagged by system",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_AutoPitchType",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "AutoPitchType",
+      "column_letter": "U"
+    }
+  },
+  {
+    "content": "PitchCall (V) result of that pitch",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_PitchCall",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "PitchCall",
+      "column_letter": "V"
+    }
+  },
+  {
+    "content": "KorBB (W) whether a strikeout or walk occurred, ifneither occurred the column will be\nstate \u201cundefined\u201d",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_KorBB",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "KorBB",
+      "column_letter": "W"
+    }
+  },
+  {
+    "content": "HitType (X) If a ball is hit into play this is thetype of contact that was made no matter\nthe result (ex; line drive, pop up, etc.) If the ballwas not hit into play then this column\nwill be marked as \u201cundefined.\u201d",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_HitType",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "HitType",
+      "column_letter": "X"
+    }
+  },
+  {
+    "content": "PlayResult (Y) If the ball is hit into play, this is the result whether there were no outs\nrecorded or there were (ex; single, double, out, sacrifice, error, etc).",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_PlayResult",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "PlayResult",
+      "column_letter": "Y"
+    }
+  },
+  {
+    "content": "OutsOnPlay (Z) outs recorded on this play",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_OutsOnPlay",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "OutsOnPlay",
+      "column_letter": "Z"
+    }
+  },
+  {
+    "content": "RunsScored (AA) runs scored on this play",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_RunsScored",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "RunsScored",
+      "column_letter": "AA"
+    }
+  },
+  {
+    "content": "Notes (AB) notes added for this play or pitch",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Notes",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Notes",
+      "column_letter": "AB"
+    }
+  },
+  {
+    "content": "HomeTeam (BQ)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_HomeTeam",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "HomeTeam",
+      "column_letter": "BQ"
+    }
+  },
+  {
+    "content": "AwayTeam (BR)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_AwayTeam",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "AwayTeam",
+      "column_letter": "BR"
+    }
+  },
+  {
+    "content": "Stadium (BS)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Stadium",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Stadium",
+      "column_letter": "BS"
+    }
+  },
+  {
+    "content": "Level (BT)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Level",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Level",
+      "column_letter": "BT"
+    }
+  },
+  {
+    "content": "League (BU)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_League",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "League",
+      "column_letter": "BU"
+    }
+  },
+  {
+    "content": "GameID (BV)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_GameID",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "GameID",
+      "column_letter": "BV"
+    }
+  },
+  {
+    "content": "Pitch UUID (BW) specific ID assigned to that pitch",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Pitch UUID",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Pitch UUID",
+      "column_letter": "BW"
+    }
+  },
+  {
+    "content": "yt_SessionName (DG)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_SessionName",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_SessionName",
+      "column_letter": "DG"
+    }
+  },
+  {
+    "content": "Note (DH) note tagged to that specific play\nTrackman",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Note",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Note",
+      "column_letter": "DH"
+    }
+  },
+  {
+    "content": "RelSpeed (AC) Release Speed. Measured in MPH. Speedof the pitch at release point.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_RelSpeed",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "RelSpeed",
+      "column_letter": "AC"
+    }
+  },
+  {
+    "content": "VertRelAngle (AD) Refer to YT definition.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_VertRelAngle",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "VertRelAngle",
+      "column_letter": "AD"
+    }
+  },
+  {
+    "content": "HorzRelAngle (AE) Refer to Yakkertech definition.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_HorzRelAngle",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "HorzRelAngle",
+      "column_letter": "AE"
+    }
+  },
+  {
+    "content": "SpinRate (AF) Measured in RPM\u2019s. The amount of spin on the pitched ball.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_SpinRate",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "SpinRate",
+      "column_letter": "AF"
+    }
+  },
+  {
+    "content": "SpinAxis (AG) (Yakkertech Measurement): Measured in degrees. The tilt angle on the\npitched ball. From the pitcher\u2019s perspective, a ball spinning at a tilt towards the right will\nbe positive; spinning to the left is negative.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_SpinAxis",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "SpinAxis",
+      "column_letter": "AG"
+    }
+  },
+  {
+    "content": "Tilt (AH) (Yakkertech Measurement): Given as a timeon a clock face from the pitcher\u2019s\nperspective. The hour hand of this imaginary clock points in the direction of the breaking\nball for fastball and changeup. Whereas, with a curveball or slider the hour hand points in\nthe opposite direction. So a backspinning fastball will be close to 12:00 or right on 12:00,\nwhile a breaking ball would be close to 6:00. A side spinning ball (slider or gyrospin\npitch) that breaks to the right from the pitcher\u2019s view would be close to 3:00, and one that\nbreaks to the left would be 9:00.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Tilt",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Tilt",
+      "column_letter": "AH"
+    }
+  },
+  {
+    "content": "RelHeight (AI) Release Height. Measured in feet/inches.How far above the ground the\npitcher released the ball.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_RelHeight",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "RelHeight",
+      "column_letter": "AI"
+    }
+  },
+  {
+    "content": "RelSide (AJ) Release Side. Measured in feet/inches.How far from the centerline of the\nrubber to the side the pitcher released the ball.Left - negative; right - positive.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_RelSide",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "RelSide",
+      "column_letter": "AJ"
+    }
+  },
+  {
+    "content": "Extension (AK) Measured in feet. How far out in frontof the rubber the pitcher released\nthe ball.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Extension",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Extension",
+      "column_letter": "AK"
+    }
+  },
+  {
+    "content": "VertBreak (AL) Measured in inches. Describes the vertical deviation at the plate from\nthe straight line projection at release. This is how much the ball dropped vertically to the\nground based on the effect of gravity and the spin the pitcher put on the ball.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_VertBreak",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "VertBreak",
+      "column_letter": "AL"
+    }
+  },
+  {
+    "content": "InducedVertBreak (AM) Induced vertical break. Measured in inches. Amount of vertical\nbreak the pitcher caused the ball to move in additionto natural movement. The spin the\npitcher put on the ball caused the ball to break thismuch more than gravity was naturally\ngoing to let it break. From the pitcher\u2019s vantage point, the right break is positive and left\nis negative.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_InducedVertBreak",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "InducedVertBreak",
+      "column_letter": "AM"
+    }
+  },
+  {
+    "content": "HorzBreak (AN) Horizontal break. Measured in inches.The amount of break left or right\nthe pitcher caused the ball to move in addition to natural movement. The spin the pitcher\nput on the ball caused the ball to break this muchmore off it\u2019s natural line than gravity\nwas naturally going to let it break. From the pitcher\u2019s vantage point, the right break is\npositive and left is negative.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_HorzBreak",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "HorzBreak",
+      "column_letter": "AN"
+    }
+  },
+  {
+    "content": "PlateLocHeight (AO) Plate Location Height. Measured in feet/inches. How far above the\nground the ball is once it reaches the strike zone.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_PlateLocHeight",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "PlateLocHeight",
+      "column_letter": "AO"
+    }
+  },
+  {
+    "content": "PlateLocSide (AP) Plate Location Side. Measured in feet/inches. How far to either side\nof the middle of the plate the ball is once it reaches the strike zone from the pitcher\u2019s\nvantage point. Right side will result in negative numbers. Left side will result in positive\nnumbers.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_PlateLocSide",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "PlateLocSide",
+      "column_letter": "AP"
+    }
+  },
+  {
+    "content": "ZoneSpeed (AQ) Measured in velocity. How fast theball is going once it reaches the\nplate.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_ZoneSpeed",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "ZoneSpeed",
+      "column_letter": "AQ"
+    }
+  },
+  {
+    "content": "VertApprAngle(AR) Vertical Approach Angle. Measured in degrees. The vertical angle\nthe ball is approaching home plate. If the ball were to remain at the same height from the\nmoment it was released to the time it reached homeplate that would be 0 degrees. -90\ndegrees would be straight down.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_VertApprAngle",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "VertApprAngle",
+      "column_letter": "AR"
+    }
+  },
+  {
+    "content": "HorzApprAngle (AS) Horizontal Approach Angle. Measured in degrees. The horizontal\nangle the ball is approaching home plate. Once theball is released if it were to travel dead\nstraight on a string towards its destination (aroundhome plate) it would be 0 degrees. If\nthe ball were to vere off left or right from that straight line, it will be anything but 0\ndegrees. From the pitcher\u2019s vantage point, the right direction is negative and to the left is\npositive.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_HorzApprAngle",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "HorzApprAngle",
+      "column_letter": "AS"
+    }
+  },
+  {
+    "content": "ZoneTime (AT) Measured in seconds. Time it took the ball to reach home plate from the\ntime it was released.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_ZoneTime",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "ZoneTime",
+      "column_letter": "AT"
+    }
+  },
+  {
+    "content": "ExitSpeed (AU) Measured in velocity. How fast the ball is traveling once the ball leaves\nthe bat.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_ExitSpeed",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "ExitSpeed",
+      "column_letter": "AU"
+    }
+  },
+  {
+    "content": "Angle (AV) Measured in degrees. Angle the ball went into the air from the point of\ncontact, whether it\u2019s from low in the zone or high in the zone. For example, if the ball\ngets popped straight up it will be approx 90 degrees.If the ball is hit directly into the\nground at the mound or elsewhere in the infield it will be negative. A ball hit directly\nstraight out into the field of play on the same line from the point of contact will be approx\n0 or a bit more as it is hit into the air out towards the field of play.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Angle",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Angle",
+      "column_letter": "AV"
+    }
+  },
+  {
+    "content": "Direction (AW) Measured in degrees. Angle the ball went out towards the field of play\nfrom the hitter\u2019s perspective once it left the bat.For example, if the ball is hit directly\ntowards 3rd or 1st base, an angle of 45 degrees will be shown (negative when towards\n3rd base and positive towards 1st base). If the ball is traveling foul the value will be\ngreater than 45 degrees.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Direction",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Direction",
+      "column_letter": "AW"
+    }
+  },
+  {
+    "content": "HitSpinRate (AX) Measured in RPM\u2019s. The amount of spin on the hit ball after contact.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_HitSpinRate",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "HitSpinRate",
+      "column_letter": "AX"
+    }
+  },
+  {
+    "content": "PositionAt110X,Y,Z (AY-BA) Measured in feet. Oncethe ball has traveled 110ft in the\nair these X, Y, and Z coordinates indicate where the ball has gone. X indicates how far\nthe ball has traveled off of its original line toeither side of the field after traveling 110ft.\nFrom the catcher\u2019s perspective looking out towardsthe field, a negative number will\nappear if the ball has traveled more towards 3rd base and positive towards 1st base after\ntraveling 110ft in the air. Y indicates how much farther the ball traveled in the air once it\nreached 110ft. Z indicates how far above the groundthe ball was once it reaches 110ft.\nThese metrics will be absent if the ball didn't travel at least 110ft in the air.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_PositionAt110X,Y,Z",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "PositionAt110X,Y,Z",
+      "column_letter": "AY-BA"
+    }
+  },
+  {
+    "content": "Distance (BB) Measured in feet. The projected distance until the hit ball first hits the\nground. Measured from the back tip of home plate.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Distance",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Distance",
+      "column_letter": "BB"
+    }
+  },
+  {
+    "content": "LastTrackedDistance (BC) not tracked",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_LastTrackedDistance",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "LastTrackedDistance",
+      "column_letter": "BC"
+    }
+  },
+  {
+    "content": "Bearing (BD) Measured in degrees. The angle the ball has traveled side to side once it is\ntraveling towards its destination after being hit.For example, if the ball is headed towards\n2nd base, but then the wind or spin on the ball causes it to travel towards right field,\nhowever much the ball was pushed off course is measuredin degrees. From the hitter\u2019s\nperspective, negative will be when the ball is blownoff course towards the 3rd base and\npositive towards 1st base.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Bearing",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Bearing",
+      "column_letter": "BD"
+    }
+  },
+  {
+    "content": "HangTime (BE) Measured in seconds. How long the ballremained in the air before it hit\nthe ground after initial contact.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_HangTime",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "HangTime",
+      "column_letter": "BE"
+    }
+  },
+  {
+    "content": "Pfxx - az0 (BF-BP) Measured in feet, feet per second, and feet per second squared. The\npitchfx compatible nine parameters for clients that need those figures for historical\ncomparison.\nYakkertech (all labeled with \u201cyt\u201d)",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_Pfxx - az0",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "Pfxx - az0",
+      "column_letter": "BF-BP"
+    }
+  },
+  {
+    "content": "yt_RelSpeed (BX) Release Speed. Measured in MPH.Speed of the pitch at release point\n(exactly when the ball leaves the pitcher\u2019s fingertips).",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_RelSpeed",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_RelSpeed",
+      "column_letter": "BX"
+    }
+  },
+  {
+    "content": "yt_RelHeight (BY) Release Height. Measured in feet/inches.How far above the ground\nthe pitcher released the ball.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_RelHeight",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_RelHeight",
+      "column_letter": "BY"
+    }
+  },
+  {
+    "content": "yt_RelSide (BZ) Release Side. Measured in feet/inches. How far from the centerline of\nthe rubber to the side the pitcher released the ball. Left - negative; right - positive.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_RelSide",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_RelSide",
+      "column_letter": "BZ"
+    }
+  },
+  {
+    "content": "yt_VertRelAngle (CA) Vertical Release Angle. Measured in degrees. The vertical angle\nat which the ball is traveling towards home plate. This is without factoring in the effect\nthe pitcher had on the ball. If the ball were to notgo down or up from the moment it was\nreleased and stay on a straight line the verticalrelease angle would be \u201c0.\u201d Expect this\nnumber to be in the negatives most of the time.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_VertRelAngle",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_VertRelAngle",
+      "column_letter": "CA"
+    }
+  },
+  {
+    "content": "yt_HorzRelAngle (CB) Horizontal release angle. Measuredin degrees. Assuming the\nball is released from the center of the rubber, this measures how much to either side the\nball moves off of that pitching line. 0 degrees would mean that the ball began traveling on\na straight line from the middle of the rubber anddid not move off that line. From the\npitcher\u2019s perspective, right is positive and left is negative. Although pitch type certainly\nhas an effect, expect to see mostly negative numbersfrom a right handed pitcher and\npositive from a left handed pitcher because of whichside of the plate they are releasing\nthe ball from.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_HorzRelAngle",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_HorzRelAngle",
+      "column_letter": "CB"
+    }
+  },
+  {
+    "content": "yt_ZoneSpeed (CC) Measured in MPH. Speed of the ball once it reaches the strike zone.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_ZoneSpeed",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_ZoneSpeed",
+      "column_letter": "CC"
+    }
+  },
+  {
+    "content": "yt_PlateLocHeight (CD) Plate Location Height. Measured in feet/inches. How far above\nthe ground the ball is once it reaches the strike zone.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_PlateLocHeight",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_PlateLocHeight",
+      "column_letter": "CD"
+    }
+  },
+  {
+    "content": "yt_PlateLocSide (CE) Plate Location Side. Measuredin feet/inches. How far to either\nside of the middle of the plate the ball is once it reaches the strike zone from the pitcher\u2019s\nvantage point. Right side will result in negative numbers. Left side will result in positive\nnumbers.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_PlateLocSide",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_PlateLocSide",
+      "column_letter": "CE"
+    }
+  },
+  {
+    "content": "yt_VertApprAngle (CF) Vertical Approach Angle. Measured in degrees. The vertical\nangle the ball is approaching home plate. If the ball were to remain at the same height\nfrom the moment it was released to the time it reachedhome plate that would be 0\ndegrees. -90 degrees would be straight down.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_VertApprAngle",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_VertApprAngle",
+      "column_letter": "CF"
+    }
+  },
+  {
+    "content": "yt_HorzApprAngle (CG) Horizontal Approach Angle. Measured in degrees. The\nhorizontal angle the ball is approaching home plate.Once the ball is released if it were to\ntravel dead straight on a string (from its originalrelease point, not necessarily from the\nmiddle of the rubber) towards its destination (around home plate) it would be 0 degrees.\nIf the ball were to vere off left or right from that original line, it will be anything but 0\ndegrees. From the pitcher\u2019s vantage point, the right direction is negative and to the left is\npositive.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_HorzApprAngle",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_HorzApprAngle",
+      "column_letter": "CG"
+    }
+  },
+  {
+    "content": "yt_ZoneTime (CH) Measured in seconds. Time it took the ball to reach home plate from\nthe time it was released.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_ZoneTime",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_ZoneTime",
+      "column_letter": "CH"
+    }
+  },
+  {
+    "content": "yt_HorzBreak (CI) Horizontal break. Measured in inches.The amount of break left or\nright the pitcher caused the ball to move in additionto natural movement. The spin the\npitcher put on the ball caused the ball to break thatmuch more off it\u2019s natural line than\ngravity would naturally let it break. From the pitcher\u2019s vantage point, the right break is\npositive and left is negative.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_HorzBreak",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_HorzBreak",
+      "column_letter": "CI"
+    }
+  },
+  {
+    "content": "yt_InducedVertBreak (CJ) Induced vertical break. Measured in inches. Amount of\nvertical break the pitcher caused the ball to movein addition to natural movement. The\nspin the pitcher put on the ball will cause the ball to break more or less than gravity\nwould naturally allow it to. Negative would mean that the pitcher caused the ball to drop\nthat much more than what gravity would naturally allow it to, and positive is how much\nless the ball dropped due to the spin the pitcher put on the ball.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_InducedVertBreak",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_InducedVertBreak",
+      "column_letter": "CJ"
+    }
+  },
+  {
+    "content": "yt_OutofPlane (CK) Measured in degrees. Direction of the spin axis on the pitched ball.\nZero corresponds to 100% efficiency, while positive90 is a perfect gyrospin ball moving\ncounterclockwise from the pitcher's perspective, and negative 90 is a perfect gyrospin\nball moving clockwise from the pitcher's perspective.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_OutofPlane",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_OutofPlane",
+      "column_letter": "CK"
+    }
+  },
+  {
+    "content": "yt_FSRI (CL) Four-seam rotation index. Measured on a 0-100 scale. A 100 reading is\nthe perfect spin representation for a four-seam fastball. A 0 reading is the perfect spin\nrepresentation for a two-seam fastball.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_FSRI",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_FSRI",
+      "column_letter": "CL"
+    }
+  },
+  {
+    "content": "yt_EffectiveSpin (CM) Effective Spin Rate. Measured in RPM. The amount of RPM\u2019s\nfrom the overall spin rate that were useful for generating break. Other than a slider, you\nwant this number as close as possible to the overall spin rate (Column AF).",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_EffectiveSpin",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_EffectiveSpin",
+      "column_letter": "CM"
+    }
+  },
+  {
+    "content": "yt_GyroSpin (CN) Measured in RPM. Amount of non-effective spin for that pitch. The\nhigher this number is and closer it is to the overallspin rate (Column AF) it is, the less\nuseful the spin on the ball was for generating break/movement.A full 100% gyro spin\nball looks like a perfectly spiraled football. The slider will have the highest number in\nthis metric of any other pitch.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_GyroSpin",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_GyroSpin",
+      "column_letter": "CN"
+    }
+  },
+  {
+    "content": "yt_Efficiency (CO) Measured in percentage. Percentageof spin on that pitch that was\nuseful for generating break or late movement. This metric is directly correlated to\nEffective Spin (column CM).",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_Efficiency",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_Efficiency",
+      "column_letter": "CO"
+    }
+  },
+  {
+    "content": "yt_SpinCompnentX, yt_SpinComponentY, yt_SpinComponentZ(CP-CR) Pitcher spin\ncomponent. X, Y, and Z all add up to approximately 1. What angle the ball went after the\npitcher released the ball. X stands for where the ball went horizontally from its original\nline. Y stands for whether the ball went backwards or forwards towards home plate, with\nhome plate being positive and back towards the pitcherbeing negative; this should\nalways be positive. Z stands for where the ball wentvertically from release. Straight up in\nthe air would be positive and directly into the ground would be negative.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_SpinCompnentX, yt_SpinComponentY, yt_SpinComponentZ",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_SpinCompnentX, yt_SpinComponentY, yt_SpinComponentZ",
+      "column_letter": "CP-CR"
+    }
+  },
+  {
+    "content": "yt_HitVelocityX, yt_HitVelocityY, yt_HitVelocityZ (CS-CU) Measured in MPH. X\nindicates how fast the ball was going while curvingoff of its original path of destination.\nTowards 3rd base would be negative and towards 1stbase would be a positive value. Y\nindicates how fast the ball was traveling while curving back into play or out of play. Z\nindicates how fast the ball was traveling while vering in an upwards or downwards\ndirection from its original path of destination.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_HitVelocityX, yt_HitVelocityY, yt_HitVelocityZ",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_HitVelocityX, yt_HitVelocityY, yt_HitVelocityZ",
+      "column_letter": "CS-CU"
+    }
+  },
+  {
+    "content": "yt_HitLocationX, yt_HitLocationY, yt_HitLocationZ (CV-CX) Measured in feet. Where\nthe bat makes contact with the ball. It gives the exact location of the ball when it was hit\nfrom the back tip of home plate. X indicates how farfrom the middle of the strike zone,\nleft or right, the ball was; from the catcher\u2019s perspective, left is negative and right is\npositive. Y indicates how far up or back in the strike zone the ball and bat made contact;\nanything in front of the back tip is positive andanything behind is negative. Z indicates\nhow far off the ground the ball was when making contactwith the bat.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_HitLocationX, yt_HitLocationY, yt_HitLocationZ",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_HitLocationX, yt_HitLocationY, yt_HitLocationZ",
+      "column_letter": "CV-CX"
+    }
+  },
+  {
+    "content": "yt_GroundLocationX, yt_GroundLocationY (CY-CZ) Measured in feet - where the hit\nball first touched the ground. X indicates the sideof the field and how far from the center\nof the field the ball first touched the ground withpositive being towards 1st base and\nnegative being towards 3rd base from the hitter\u2019s vantage point. Y indicates how far the\nball traveled in the air before hitting the ground.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_GroundLocationX, yt_GroundLocationY",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_GroundLocationX, yt_GroundLocationY",
+      "column_letter": "CY-CZ"
+    }
+  },
+  {
+    "content": "yt_HitBreakX, yt_HitBreakY, yt_HitBreakT (DA-DC) Measured in feet. X and Y\nindicate how far off of the original axis (original destination direction) the spin from the\nhit caused the ball to go to either side of the field. T is measured in seconds as it measures\nhow much longer the ball was in the air due to the spin put on it. Positive would mean the\nball was in the air that much longer because of thespin. Negative would mean the ball\nwas in the air that much less of time due to the spinput on the ball.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_HitBreakX, yt_HitBreakY, yt_HitBreakT",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_HitBreakX, yt_HitBreakY, yt_HitBreakT",
+      "column_letter": "DA-DC"
+    }
+  },
+  {
+    "content": "yt_HitSpinCompenentX, yt_HitSpinCompenentY, yt_HitSpinComponentZ(DD-DF) X,\nY, and Z all add up to approximately 1. X indicates the direction the ball was hit\nhorizontally off of its original path of destination.A positive number will appear if the\nball is headed towards 1st base, and negative if headedtowards 3rd base from the hitter\u2019s\nperspective. Y indicates the direction of the ball backwards or forwards. A positive\nnumber will show for a ball headed out towards thefield of play. A negative number will\nshow for a foul ball behind the plate. Z indicatesthe direction of the hit ball up into the\nair or down into the ground. Positive would show for a ball hit into the air and negative\nwould be shown for a ball hit directly into the ground.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_HitSpinCompenentX, yt_HitSpinCompenentY, yt_HitSpinComponentZ",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_HitSpinCompenentX, yt_HitSpinCompenentY, yt_HitSpinComponentZ",
+      "column_letter": "DD-DF"
+    }
+  },
+  {
+    "content": "yt_PitchSpinConfidence (DI) Measured in percentage.How confident the Yakkertech\nsystem was that it captured the pitch accurately.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_PitchSpinConfidence",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_PitchSpinConfidence",
+      "column_letter": "DI"
+    }
+  },
+  {
+    "content": "yt_PitchReleaseConfidence (DJ) Measured in percentage.How confident the Yakkertech\nsystem was that it captured the release extensionmetric accurately.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_PitchReleaseConfidence",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_PitchReleaseConfidence",
+      "column_letter": "DJ"
+    }
+  },
+  {
+    "content": "yt_HitSpinConfidence (DK) Measured in percentage.How confident the Yakkeretch\nsystem was that it captured the hitting metrics accurately.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_HitSpinConfidence",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_HitSpinConfidence",
+      "column_letter": "DK"
+    }
+  },
+  {
+    "content": "yt_EffectiveBattingSpeed (DL) Measured in MPH. How effectively the batter swung the\nbat. The bigger the number the better he swung the bat. This number will always be lower\nthan ExitSpeed (AU), so the closer the batter canget his effective batting speed to the exit\nspeed, the better and more effectively he swung thebat.",
+    "metadata": {
+      "id": "yakkertech_data_dictionary_yt_EffectiveBattingSpeed",
+      "source": "PDF",
+      "collection": "Data Dictionary",
+      "document_name": "Yakkertech Data Dictionary",
+      "column_name": "yt_EffectiveBattingSpeed",
+      "column_letter": "DL"
+    }
+  }
+]
